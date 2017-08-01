@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Areport_ASP", "Areport_ASP\Areport_ASP.vbproj", "{55C22DE5-2648-4A98-B350-E5CAA647E957}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Areport_ASP.Tests", "Areport_ASP.Tests\Areport_ASP.Tests.vbproj", "{32A331E4-68D8-45A4-9BBB-1ECBA99069E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C22DE5-2648-4A98-B350-E5CAA647E957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C22DE5-2648-4A98-B350-E5CAA647E957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C22DE5-2648-4A98-B350-E5CAA647E957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C22DE5-2648-4A98-B350-E5CAA647E957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A331E4-68D8-45A4-9BBB-1ECBA99069E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A331E4-68D8-45A4-9BBB-1ECBA99069E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A331E4-68D8-45A4-9BBB-1ECBA99069E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A331E4-68D8-45A4-9BBB-1ECBA99069E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
